@@ -1,2 +1,2 @@
 # BRAZIL_FIRE_PREDICTION
-..
+
